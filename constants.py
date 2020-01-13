@@ -1,0 +1,5 @@
+MOBILE_CASES = "Mobile Cases"
+MOBILE_PHONES = "Mobile Phones"
+GENERIC = "Generic"
+INVALID_FILTER = "Invalid Search Filter"
+INVALID_SEARCH = "Nothing present for this search"
